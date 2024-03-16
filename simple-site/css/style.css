@@ -1,0 +1,46 @@
+body {
+  background: rgb(97, 178, 197);
+  border: 5px solid rgb(64, 227, 36);
+}
+
+img {
+  float: right;
+  padding: 20px;
+  width: 300px;
+  height: auto;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 45px;
+  font-weight: 700;
+}
+
+ul {
+  text-align: center;
+}
+
+li {
+  display: inline;
+  margin-right: 10px;
+}
+
+a {
+  color: white;
+  font-size: 24px;
+}
+
+p {
+  font-size: 30px;
+}
+
+h2 {
+  color: white;
+  font-size: 30px;
+}
+
+
+footer ul li a {
+  color: green;
+}
